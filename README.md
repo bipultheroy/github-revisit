@@ -1,1 +1,2 @@
-Recalling the git commands and github
+Recalling the git commands and github.
+Let's try pull and fetch...
